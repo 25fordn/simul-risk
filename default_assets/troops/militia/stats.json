@@ -1,0 +1,22 @@
+{
+  "name": "militia",
+  "classes":
+  [
+    "ranged"
+  ],
+  "default_power":
+  {
+    "skirmish": 10.0,
+    "attack":   10.0,
+    "defense":  10.0,
+    "chase":     2.0,
+    "retreat":   0.0
+  },
+  "default_size": 1.0,
+  "default_max_health": 10,
+  "default_movement": 3,
+  "default_cost":
+  {
+    "gold": 10
+  }
+}
